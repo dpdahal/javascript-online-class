@@ -50,3 +50,51 @@
 //     default:
 //         console.log('not a valid number')
 // }
+
+/*
+=============Loop for,while,do while, nested loop============
+ */
+
+// for(let x=1;x<10;x++){
+//     console.log(x)
+// }
+//
+//
+// let x =1;
+// while (x<10){
+//     console.log(x)
+//     x++;
+// }
+//
+// let x=1;
+//
+// for (;x<10;){
+//     console.log(x)
+//     x++;
+// }
+//
+
+
+// let x = 1;
+//
+// do {
+//     console.log(x)
+//     x++;
+// } while (x < 10);
+
+// console.log('test')
+//
+// debugger
+//
+//
+// console.log('hello')
+
+let x = 10;
+
+
+if (x === 5) {
+    console.log(x)
+} else {
+    // debugger
+    console.log('test')
+}
