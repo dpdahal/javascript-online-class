@@ -80,6 +80,9 @@ let users = [
     {name: 'hari', age: 23, address: 'kathmandu', phone: 987987},
 ]
 
+console.log(typeof users);
+
+
 
 let outPut = "";
 
